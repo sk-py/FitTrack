@@ -20,12 +20,6 @@ export default function Tab1Layout() {
           title: 'Tab One',
         }}
       />
-      <Stack.Screen
-        name="two"
-        options={{
-          title: 'Tab Two',
-        }}
-      />
     </Stack>
   );
 }
